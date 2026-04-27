@@ -1,0 +1,1 @@
+Este projeto consiste em uma infraestrutura desenvolvida em Java para o estudo de desempenho de algoritmos de caminho mínimo em diferentes estruturas de representação de grafos. O objetivo principal é comparar a eficiência entre matrizes e listas de adjacência sob variadas condições de densidade e escala de vértices.
